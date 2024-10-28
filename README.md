@@ -13,7 +13,7 @@ Hey! I'm Noel. Welcome to my corner of GitHub!<br>I'm currently a student at PES
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NJWasTaken&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![]Test
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NJWasTaken&limit=5&theme=dark&combine_all_yearly_contributions=true)
