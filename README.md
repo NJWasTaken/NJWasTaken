@@ -1,5 +1,6 @@
 # 💫 About Me
 Hey! I'm Noel. Welcome to my corner of GitHub!<br>I'm currently a student at PES University studying for a B.Tech degree in Computer Science (Artificial Intelligence & Machine Learning).<br><br>My interests span across artificial intelligence, machine learning, web development, game development, and community-focused tech solutions, I’m constantly exploring innovative ways to make technology accessible and impactful. I'm a quick learner, always staying curious and eager to explore new challenges with a 'foolish and hungry' mindset.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F700&width=435&lines=AI+%26+ML+Enthusiast;Developer;Artist;Singer;Video+Game+Nerd)](https://git.io/typing-svg)
 
 ## 🌐 Socials
